@@ -27,6 +27,6 @@
     $ git rm --cached filename    => Remove files from the staging area 
 
 
-        //   
-
+        //  Branch Creation   // 
+    $ git branch login  => Create a login branch 
  
