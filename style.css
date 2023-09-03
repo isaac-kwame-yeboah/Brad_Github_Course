@@ -1,6 +1,16 @@
 body{
-    background:lightslategray;
+    background: crimson;
     color: white;
     font-size: 20px;
     font-weight:bold;
-} 
+}  
+
+
+.container{
+    width:20%;
+    height:40%;
+    background:gray;
+    margin:10px;
+    padding:10px;
+    border-radius:5%;
+}

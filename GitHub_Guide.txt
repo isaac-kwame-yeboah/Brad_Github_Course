@@ -29,4 +29,8 @@
 
         //  Branch Creation   // 
     $ git branch login  => Create a login branch 
+
+    $ git checkout login  => Switch to login branch 
+
+    $ git branch    => List all available branches 
  
