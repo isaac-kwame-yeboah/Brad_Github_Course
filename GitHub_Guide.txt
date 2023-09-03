@@ -34,5 +34,19 @@
 
     $ git branch    => List all available branches 
 
-    $ git merge login   => Merge branches together
+    $ git merge login   => Merge branches together 
+
+    $ git branch -D (branch name)  => Remove or Delete a branch  
+
+ 
+
+
+              //  Git Remote --- Add To A Cloud Storage (GitHub)   // 
+     $ git remote  =>  List all available remote Repositories
+
+     $ git remote add origin https://github.com/isaac-kwame-yeboah/GitHuib_Sample.git  => Add a git remote
+
+     $ git remote remove [remote name]   => Remove a git remote repository  
+
+     $ git push -u origin master    => Push to cloud storage repository
  
