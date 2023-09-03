@@ -26,3 +26,7 @@
      //  Remove files from the staging area  // 
     $ git rm --cached filename    => Remove files from the staging area 
 
+
+        //   
+
+ 
