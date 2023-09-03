@@ -33,4 +33,6 @@
     $ git checkout login  => Switch to login branch 
 
     $ git branch    => List all available branches 
+
+    $ git merge login   => Merge branches together
  
