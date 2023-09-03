@@ -1,0 +1,28 @@
+            // Git & GitHub // 
+  $ git init   => Initialize a local Git Repository 
+
+  $ git add .   => Add files to index in the staging area  
+
+  $ git status   => Check status of working tree 
+
+ $ git commit -m   => Commit changes in the index 
+
+
+           // Remote Repositories // 
+   $ git push  => Push to remote repository 
+
+   $ git pull  => Pull latest changes from remote repository 
+  
+   $ git clone  => Clone repository into a new directory 
+
+
+         //  Git Configuration  // 
+   $ git config --global user.name "Isaac Yeboah"
+
+   $ git config --global user.email "isaacyeboah.mi6@gmail.com"
+
+
+
+     //  Remove files from the staging area  // 
+    $ git rm --cached filename    => Remove files from the staging area 
+
